@@ -1,0 +1,7 @@
+.wireframe {
+    border: 1px solid black;
+}
+.row-wireframe {
+    border: 1px solid black;
+    height: 400px;
+}
